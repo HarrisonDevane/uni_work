@@ -1,0 +1,52 @@
+a 5
+b aa
+
+a 5  with some comments
+b aa <and here too>
+
+a bb
+b 5
+
+b aa
+c bab
+a 5
+
+a 5
+b ab
+
+r gg
+g rr
+b 5
+
+a bab
+b 5
+
+r bwb <use granny knots!>
+b www #use reef knots
+w 5
+p brbr
+
+g www
+r bb
+b rr
+w 5
+p wyw
+
+a 1000001
+b aaaaaaaaaaa
+c bbbbbbbbbbb
+d ccccccccccc
+e ddddddddddd
+f eeeeeeeeeee
+g fffffffffff
+h ggggggggggg
+i hhhhhhhhhhh
+j iiiiiiiiiii
+k jjjjjjjjjjj
+l kkkkkkkkkkk
+m lllllllllll
+n mmmmmmmmmmm
+o nnnnnnnnnnn
+p ooooooooooo
+q ppppppppppp
+r qqqqqqqqqqq

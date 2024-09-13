@@ -1,0 +1,52 @@
+a 5
+b 10
+
+a 5
+b 10
+
+a 10
+b 5
+
+b 10
+c 25
+a 5
+
+a 5
+b NaN
+
+r NaN
+g NaN
+b 5
+
+a NaN
+b 5
+
+r 35
+b 15
+w 5
+p 100
+
+g 15
+r NaN
+b NaN
+w 5
+p NaN
+
+a 1000001
+b 11000011
+c 121000121
+d 1331001331
+e NaN
+f NaN
+g NaN
+h NaN
+i NaN
+j NaN
+k NaN
+l NaN
+m NaN
+n NaN
+o NaN
+p NaN
+q NaN
+r NaN
